@@ -60,7 +60,7 @@ fruit_freshness_detection/
 
 ##  **Technologies Used**
 
-* **YOLOv8 (Ultralytics)**
+* **YOLOv11 (Ultralytics)**
 * **Python 3.10+**
 * **PyTorch / TensorFlow**
 * **OpenCV**
